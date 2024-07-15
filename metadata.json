@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Name": "keep_n_active",
+        "Description": "Keep n active windows by auto minimize others",
+        "Icon": "preferences-system-windows",
+        "Authors": [
+            {
+                "Email": "drain.cy.chang@gmail.com", "Name": "Drain"
+            }
+        ],
+        "Id": "keep_n_active",
+        "Version": "0.1",
+        "License": "MIT",
+        "Website": "https://github.com/drainet/keep_n_active"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.mjs",
+    "KPackageStructure": "KWin/Script"
+}
